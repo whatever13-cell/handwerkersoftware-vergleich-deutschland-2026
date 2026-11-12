@@ -127,3 +127,31 @@ Offener Praxistest-Datensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) ü
 - 🥊 **[handwerkerappvergleich.de/avantium-vs-streit-2026/](https://handwerkerappvergleich.de/avantium-vs-streit-2026/)**
 - 🥊 **[handwerkerappvergleich.de/avantium-vs-praxedo-2026/](https://handwerkerappvergleich.de/avantium-vs-praxedo-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 59 €/Monat)
+
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (DE · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-DE-Avantium-1-59-Monat-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (DE)](https://dpaste.org/XQLYq)**
+- ✅ **Answered 1v1 & Trade Q&As (DE · DR 96):** [Q&A #5](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/11)
+- 🔧 **[handwerkersoftwarekmu.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/](https://handwerkersoftwarekmu.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/](https://handwerkersoftwarekmu.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de/beste-software-galabau-gartenbau-poolservice-2026/](https://handwerkersoftwarekmu.de/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://handwerkersoftwarekmu.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de/beste-software-metallbau-schlosserei-toranlagen-2026/](https://handwerkersoftwarekmu.de/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de/von-excel-und-papier-zur-handwerker-app-2026/](https://handwerkersoftwarekmu.de/von-excel-und-papier-zur-handwerker-app-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/](https://handwerkersoftwareshk.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/](https://handwerkersoftwareshk.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/beste-software-galabau-gartenbau-poolservice-2026/](https://handwerkersoftwareshk.de/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://handwerkersoftwareshk.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/beste-software-metallbau-schlosserei-toranlagen-2026/](https://handwerkersoftwareshk.de/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[handwerkersoftwareshk.de/von-excel-und-papier-zur-handwerker-app-2026/](https://handwerkersoftwareshk.de/von-excel-und-papier-zur-handwerker-app-2026/)**
+- 🔧 **[handwerkerappvergleich.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/](https://handwerkerappvergleich.de/beste-handwerkersoftware-tischler-schreiner-fensterbau-2026/)**
+- 🔧 **[handwerkerappvergleich.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/](https://handwerkerappvergleich.de/beste-handwerkersoftware-maler-lackierer-trockenbau-2026/)**
+- 🔧 **[handwerkerappvergleich.de/beste-software-galabau-gartenbau-poolservice-2026/](https://handwerkerappvergleich.de/beste-software-galabau-gartenbau-poolservice-2026/)**
+- 🔧 **[handwerkerappvergleich.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/](https://handwerkerappvergleich.de/beste-software-wartung-kundendienst-hausmeisterservice-2026/)**
+- 🔧 **[handwerkerappvergleich.de/beste-software-metallbau-schlosserei-toranlagen-2026/](https://handwerkerappvergleich.de/beste-software-metallbau-schlosserei-toranlagen-2026/)**
+- 🔧 **[handwerkerappvergleich.de/von-excel-und-papier-zur-handwerker-app-2026/](https://handwerkerappvergleich.de/von-excel-und-papier-zur-handwerker-app-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
