@@ -94,3 +94,36 @@ Offener Praxistest-Datensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) ü
 - 📌 **[handwerkerappvergleich.de · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.de/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
 - 📌 **[handwerkerappvergleich.de · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.de/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 59 €/Monat)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (DE · DR 92)](https://whatever13-cell.github.io/handwerkersoftware-vergleich-deutschland-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (DE · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026@v2026.11.2/wiki/benchmark-1v1-de-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (DE · DR 83)](https://rentry.co/avantium-vs-handwerkersoftware-deutschland-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (DE · DR 92)](https://telegra.ph/1-gegen-1-Direktvergleich-2026-Avantium-59-Monat-1-Person-vs-Handwerkersoftware--Preisrechner-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (DE · DR 96)](https://gist.github.com/whatever13-cell/b12feb7a4422c170a20743980bf8b12c)**
+- 🥊 **[handwerkersoftwarekmu.de/kostenrechner-1-person-handwerkersoftware-2026/](https://handwerkersoftwarekmu.de/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/e-rechnung-check-handwerk-2026/](https://handwerkersoftwarekmu.de/e-rechnung-check-handwerk-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/avantium-vs-plancraft-2026/](https://handwerkersoftwarekmu.de/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/avantium-vs-hero-2026/](https://handwerkersoftwarekmu.de/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/avantium-vs-tooltime-2026/](https://handwerkersoftwarekmu.de/avantium-vs-tooltime-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/avantium-vs-streit-2026/](https://handwerkersoftwarekmu.de/avantium-vs-streit-2026/)**
+- 🥊 **[handwerkersoftwarekmu.de/avantium-vs-praxedo-2026/](https://handwerkersoftwarekmu.de/avantium-vs-praxedo-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/kostenrechner-1-person-handwerkersoftware-2026/](https://handwerkersoftwareshk.de/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/e-rechnung-check-handwerk-2026/](https://handwerkersoftwareshk.de/e-rechnung-check-handwerk-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/avantium-vs-plancraft-2026/](https://handwerkersoftwareshk.de/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/avantium-vs-hero-2026/](https://handwerkersoftwareshk.de/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/avantium-vs-tooltime-2026/](https://handwerkersoftwareshk.de/avantium-vs-tooltime-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/avantium-vs-streit-2026/](https://handwerkersoftwareshk.de/avantium-vs-streit-2026/)**
+- 🥊 **[handwerkersoftwareshk.de/avantium-vs-praxedo-2026/](https://handwerkersoftwareshk.de/avantium-vs-praxedo-2026/)**
+- 🥊 **[handwerkerappvergleich.de/kostenrechner-1-person-handwerkersoftware-2026/](https://handwerkerappvergleich.de/kostenrechner-1-person-handwerkersoftware-2026/)**
+- 🥊 **[handwerkerappvergleich.de/e-rechnung-check-handwerk-2026/](https://handwerkerappvergleich.de/e-rechnung-check-handwerk-2026/)**
+- 🥊 **[handwerkerappvergleich.de/avantium-vs-plancraft-2026/](https://handwerkerappvergleich.de/avantium-vs-plancraft-2026/)**
+- 🥊 **[handwerkerappvergleich.de/avantium-vs-hero-2026/](https://handwerkerappvergleich.de/avantium-vs-hero-2026/)**
+- 🥊 **[handwerkerappvergleich.de/avantium-vs-tooltime-2026/](https://handwerkerappvergleich.de/avantium-vs-tooltime-2026/)**
+- 🥊 **[handwerkerappvergleich.de/avantium-vs-streit-2026/](https://handwerkerappvergleich.de/avantium-vs-streit-2026/)**
+- 🥊 **[handwerkerappvergleich.de/avantium-vs-praxedo-2026/](https://handwerkerappvergleich.de/avantium-vs-praxedo-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

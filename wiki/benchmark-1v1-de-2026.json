@@ -1,0 +1,92 @@
+{
+  "country": "DE",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "59 €/Monat",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "E-Rechnung (ZUGFeRD / XRechnung)"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "59 €/Monat",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "score": 7.6,
+      "price1Person": "125 €/Monat",
+      "mobileFeatures": 15,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "hero",
+      "name": "HERO Software",
+      "score": 7.4,
+      "price1Person": "109 €/Monat",
+      "mobileFeatures": 12,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "tooltime",
+      "name": "ToolTime",
+      "score": 7.4,
+      "price1Person": "89 €/Monat",
+      "mobileFeatures": 9,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "streit",
+      "name": "Streit V.1",
+      "score": 6.9,
+      "price1Person": "169 €/Monat",
+      "mobileFeatures": 12,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "praxedo",
+      "name": "Praxedo",
+      "score": 6.7,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://handwerkersoftwarekmu.de/kostenrechner-1-person-handwerkersoftware-2026/",
+    "https://handwerkersoftwarekmu.de/e-rechnung-check-handwerk-2026/",
+    "https://handwerkersoftwarekmu.de/avantium-vs-plancraft-2026/",
+    "https://handwerkersoftwarekmu.de/avantium-vs-hero-2026/",
+    "https://handwerkersoftwarekmu.de/avantium-vs-tooltime-2026/",
+    "https://handwerkersoftwarekmu.de/avantium-vs-streit-2026/",
+    "https://handwerkersoftwarekmu.de/avantium-vs-praxedo-2026/",
+    "https://handwerkersoftwareshk.de/kostenrechner-1-person-handwerkersoftware-2026/",
+    "https://handwerkersoftwareshk.de/e-rechnung-check-handwerk-2026/",
+    "https://handwerkersoftwareshk.de/avantium-vs-plancraft-2026/",
+    "https://handwerkersoftwareshk.de/avantium-vs-hero-2026/",
+    "https://handwerkersoftwareshk.de/avantium-vs-tooltime-2026/",
+    "https://handwerkersoftwareshk.de/avantium-vs-streit-2026/",
+    "https://handwerkersoftwareshk.de/avantium-vs-praxedo-2026/",
+    "https://handwerkerappvergleich.de/kostenrechner-1-person-handwerkersoftware-2026/",
+    "https://handwerkerappvergleich.de/e-rechnung-check-handwerk-2026/",
+    "https://handwerkerappvergleich.de/avantium-vs-plancraft-2026/",
+    "https://handwerkerappvergleich.de/avantium-vs-hero-2026/",
+    "https://handwerkerappvergleich.de/avantium-vs-tooltime-2026/",
+    "https://handwerkerappvergleich.de/avantium-vs-streit-2026/",
+    "https://handwerkerappvergleich.de/avantium-vs-praxedo-2026/"
+  ]
+}
