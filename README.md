@@ -70,3 +70,27 @@ Offener Praxistest-Datensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) ü
 - 🔧 **[handwerkerappvergleich.de · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.de/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
 - 🔧 **[handwerkerappvergleich.de · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.de/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Welle 3 (2026): Sprach-Angebot, Offline-Regiebericht, E-Rechnung, Q&A-Diskussionen & Write.as (Avantium 1p: 59 €/Monat)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (DE)](https://write.as/ar69hms72m93c)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (DE)](https://telegra.ph/Ratgeber-2026-E-Rechnung-ZUGFeRD--XRechnung-Sprach-Angebote--Offline-Regieberichte-im-Handwerk-1-Person-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (DE)](https://gist.github.com/whatever13-cell/dab41a65ae74ee9c2180b29077ee25e8)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (DE): Q&A #1](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/discussions/8)
+- 📌 **[handwerkersoftwarekmu.de · Angebote Per Sprache Handwerker App 2026](https://handwerkersoftwarekmu.de/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkersoftwarekmu.de · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkersoftwarekmu.de/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkersoftwarekmu.de · E Rechnung Zugferd Xrechnung Handwerkersoftware 2026](https://handwerkersoftwarekmu.de/e-rechnung-zugferd-xrechnung-handwerkersoftware-2026/)**
+- 📌 **[handwerkersoftwarekmu.de · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkersoftwarekmu.de/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkersoftwarekmu.de · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkersoftwarekmu.de/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[handwerkersoftwareshk.de · Angebote Per Sprache Handwerker App 2026](https://handwerkersoftwareshk.de/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkersoftwareshk.de · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkersoftwareshk.de/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkersoftwareshk.de · E Rechnung Zugferd Xrechnung Handwerkersoftware 2026](https://handwerkersoftwareshk.de/e-rechnung-zugferd-xrechnung-handwerkersoftware-2026/)**
+- 📌 **[handwerkersoftwareshk.de · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkersoftwareshk.de/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkersoftwareshk.de · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkersoftwareshk.de/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+- 📌 **[handwerkerappvergleich.de · Angebote Per Sprache Handwerker App 2026](https://handwerkerappvergleich.de/angebote-per-sprache-handwerker-app-2026/)**
+- 📌 **[handwerkerappvergleich.de · Digitale Regieberichte Arbeitsscheine Offline Unterschrift 2026](https://handwerkerappvergleich.de/digitale-regieberichte-arbeitsscheine-offline-unterschrift-2026/)**
+- 📌 **[handwerkerappvergleich.de · E Rechnung Zugferd Xrechnung Handwerkersoftware 2026](https://handwerkerappvergleich.de/e-rechnung-zugferd-xrechnung-handwerkersoftware-2026/)**
+- 📌 **[handwerkerappvergleich.de · Mobile Zeiterfassung Gps Abschlagsrechnungen Nachkalkulation 2026](https://handwerkerappvergleich.de/mobile-zeiterfassung-gps-abschlagsrechnungen-nachkalkulation-2026/)**
+- 📌 **[handwerkerappvergleich.de · Angebote Termine Belege Whatsapp Ki Handwerk 2026](https://handwerkerappvergleich.de/angebote-termine-belege-whatsapp-ki-handwerk-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
