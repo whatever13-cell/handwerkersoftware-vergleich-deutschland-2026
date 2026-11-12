@@ -45,3 +45,28 @@ Offener Praxistest-Datensatz (CSV, JSON, CITATION.cff & 6-seitige Vektor-PDF) ü
 - 🔄 **[Streit Alternative 2026](https://handwerkersoftwarekmu.de/streit-alternative-2026/)**
 - 🔄 **[Praxedo Alternative 2026](https://handwerkersoftwarekmu.de/praxedo-alternative-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Welle 2 (2026): Branchenleitfäden nach Gewerk, Substack DR 92, Telegraph, Gist & Q&A (Avantium 1p: 59 €/Monat)
+- 📰 **[Artículo Técnico en Substack (DE)](https://markuswebershk.substack.com/p/welche-handwerkersoftware-und-baustellen)**
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (DE)](https://telegra.ph/Praxistest-2026-Einfachste--Umfangreichste-Handwerker-App-mit-Routen-Karte-und-Gratis-KI-Sekretärin-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (DE)](https://gist.github.com/whatever13-cell/6d4e474092f9c4d4b76aba71cbaa8c49)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (DE)](https://dpaste.org/9ogrS)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (DE): #1](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/issues/1) · [#2](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/issues/2) · [#3](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/issues/3) · [#4](https://github.com/whatever13-cell/handwerkersoftware-vergleich-deutschland-2026/issues/4)**
+- 🔧 **[handwerkersoftwarekmu.de · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkersoftwarekmu.de/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkersoftwarekmu.de/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkersoftwarekmu.de/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkersoftwarekmu.de/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkersoftwarekmu.de · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkersoftwarekmu.de/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[handwerkersoftwareshk.de · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkersoftwareshk.de/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkersoftwareshk.de · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkersoftwareshk.de/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkersoftwareshk.de · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkersoftwareshk.de/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkersoftwareshk.de · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkersoftwareshk.de/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkersoftwareshk.de · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkersoftwareshk.de/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+- 🔧 **[handwerkerappvergleich.de · Beste Shk Handwerkersoftware Sanitaer Heizung 2026](https://handwerkerappvergleich.de/beste-shk-handwerkersoftware-sanitaer-heizung-2026/)**
+- 🔧 **[handwerkerappvergleich.de · Beste Handwerkersoftware Elektro Photovoltaik 2026](https://handwerkerappvergleich.de/beste-handwerkersoftware-elektro-photovoltaik-2026/)**
+- 🔧 **[handwerkerappvergleich.de · Beste Software Klimatechnik Waermepumpen Kaelte 2026](https://handwerkerappvergleich.de/beste-software-klimatechnik-waermepumpen-kaelte-2026/)**
+- 🔧 **[handwerkerappvergleich.de · Beste Handwerkersoftware Soloselbststaendige 1 Person 2026](https://handwerkerappvergleich.de/beste-handwerkersoftware-soloselbststaendige-1-person-2026/)**
+- 🔧 **[handwerkerappvergleich.de · Beste Handwerkersoftware Maler Schreiner Ausbau Schluesseldienst 2026](https://handwerkerappvergleich.de/beste-handwerkersoftware-maler-schreiner-ausbau-schluesseldienst-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
